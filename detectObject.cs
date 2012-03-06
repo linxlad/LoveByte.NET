@@ -11,7 +11,8 @@ using System.Runtime.InteropServices;
 //Requires the AForge Library
 using AForge.Imaging.Filters;
 
-namespace Rovio
+//Change to your namespace
+namespace detectObject
 {
     public class Detection
     {
